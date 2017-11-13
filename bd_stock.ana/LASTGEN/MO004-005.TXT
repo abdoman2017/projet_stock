@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Stock		TAR	353	nouvelle taille enregistrement : 353
+Stock	date_ent	CNW	Date (aaaammjj)$Chaîne	la rubrique date_ent a pour nouveau type Date (aaaammjj)

@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Stock		TAR	395	nouvelle taille enregistrement : 395
+Stock	prix_achat	CNW	Monétaire$Chaîne	la rubrique prix_achat a pour nouveau type Monétaire
+Stock	prix_vente	CNW	Monétaire$Chaîne	la rubrique prix_vente a pour nouveau type Monétaire

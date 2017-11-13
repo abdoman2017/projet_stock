@@ -1,0 +1,2 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Stock	date_ent	CLEN*		la rubrique date_ent est maintenant une clé
