@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Fournisseur	tel_fournisseur	RUB+		tel_fournisseur est une nouvelle rubrique
+Fournisseur	nom_fournisseur	RUB-		la rubrique nom_fournisseur est supprimée

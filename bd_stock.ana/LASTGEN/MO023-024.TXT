@@ -1,0 +1,3 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Ligne_BnLivraison		TAR	61	nouvelle taille enregistrement : 61
+Ligne_BnLivraison	montantRemise_lignebn	RUB+		montantRemise_lignebn est une nouvelle rubrique

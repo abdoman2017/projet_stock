@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Fournisseur		TAR	170	nouvelle taille enregistrement : 170
+Fournisseur	raison_socialeFrn	RUB+		raison_socialeFrn est une nouvelle rubrique
+Fournisseur	adresse_fournisseur	RUB+		adresse_fournisseur est une nouvelle rubrique

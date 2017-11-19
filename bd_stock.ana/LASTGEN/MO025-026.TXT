@@ -1,0 +1,4 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Bon_Livraison		TAR	74	nouvelle taille enregistrement : 74
+Bon_Livraison	IDClients	RUB+		IDClients est une nouvelle clé
+Clients		NWL	Clients (IDClients) et Bon_Livraison (IDClients)	Nouvelle liaison entre les fichiers Clients (IDClients) et Bon_Livraison (IDClients)

@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Fournisseur		TAR	221	nouvelle taille enregistrement : 221
+Fournisseur	courriel_fournisseur	RUB+		courriel_fournisseur est une nouvelle rubrique

@@ -1,0 +1,6 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Ligne_BnLivraison		TAR	78	nouvelle taille enregistrement : 78
+Ligne_BnLivraison	IDStock	RUB+		IDStock est une nouvelle clé
+Ligne_BnLivraison	IDBon_Livraison	RUB+		IDBon_Livraison est une nouvelle clé
+Stock		NWL	Stock (IDStock) et Ligne_BnLivraison (IDStock)	Nouvelle liaison entre les fichiers Stock (IDStock) et Ligne_BnLivraison (IDStock)
+Bon_Livraison		NWL	Bon_Livraison (IDBon_Livraison) et Ligne_BnLivraison (IDBon_Livraison)	Nouvelle liaison entre les fichiers Bon_Livraison (IDBon_Livraison) et Ligne_BnLivraison (IDBon_Livraison)

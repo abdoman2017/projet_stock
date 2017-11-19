@@ -1,0 +1,2 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Ligne_BnLivraison		NFI		nouveau fichier

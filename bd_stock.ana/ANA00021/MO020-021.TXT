@@ -1,0 +1,2 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Fournisseur	raison_socialeFrn	CLEN*		la rubrique raison_socialeFrn est maintenant une clé

@@ -1,0 +1,3 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Bon_Livraison		TAR	85	nouvelle taille enregistrement : 85
+Bon_Livraison	ancien_creditBL	RUB+		ancien_creditBL est une nouvelle rubrique

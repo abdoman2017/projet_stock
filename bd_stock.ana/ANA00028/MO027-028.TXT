@@ -1,0 +1,5 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Stock		TAR	263	nouvelle taille enregistrement : 263
+Stock	qte_int	CNW	Entier sur 4 octets$Chaîne	la rubrique qte_int a pour nouveau type Entier sur 4 octets
+Stock	qte_alert	CNW	Entier sur 4 octets$Chaîne	la rubrique qte_alert a pour nouveau type Entier sur 4 octets
+Stock	qte_rest	CNW	Entier sur 4 octets$Chaîne	la rubrique qte_rest a pour nouveau type Entier sur 4 octets
