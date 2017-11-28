@@ -1,0 +1,3 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+facture		TAR	148	nouvelle taille enregistrement : 148
+facture	num_cheque_fct	RUB+		num_cheque_fct est une nouvelle rubrique

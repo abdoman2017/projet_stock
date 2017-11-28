@@ -1,0 +1,4 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+facture		TAR	199	nouvelle taille enregistrement : 199
+facture	num_rip	NNR	num_cheque_fct	ATTENTION : la rubrique num_cheque_fct a pour nouveau nom num_rip
+facture	num_rib	RUB+		num_rib est une nouvelle rubrique

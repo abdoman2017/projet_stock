@@ -1,0 +1,4 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+facture		TAR	207	nouvelle taille enregistrement : 207
+facture	IDBon_Livraison	RUB+		IDBon_Livraison est une nouvelle clé
+Bon_Livraison		NWL	Bon_Livraison (IDBon_Livraison) et facture (IDBon_Livraison)	Nouvelle liaison entre les fichiers Bon_Livraison (IDBon_Livraison) et facture (IDBon_Livraison)

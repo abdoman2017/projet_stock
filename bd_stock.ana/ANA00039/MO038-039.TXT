@@ -1,0 +1,10 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+facture		TAR	97	nouvelle taille enregistrement : 97
+facture	IDmode_paiement	RUB+		IDmode_paiement est une nouvelle clé
+facture	net_a_payer_fct	RUB+		net_a_payer_fct est une nouvelle rubrique
+facture	IDClients	RUB+		IDClients est une nouvelle clé
+ligne_facture		NFI		nouveau fichier
+mode_paiement		NWL	mode_paiement (IDmode_paiement) et facture (IDmode_paiement)	Nouvelle liaison entre les fichiers mode_paiement (IDmode_paiement) et facture (IDmode_paiement)
+facture		NWL	facture (IDfacture) et ligne_facture (IDfacture)	Nouvelle liaison entre les fichiers facture (IDfacture) et ligne_facture (IDfacture)
+Stock		NWL	Stock (IDStock) et ligne_facture (IDStock)	Nouvelle liaison entre les fichiers Stock (IDStock) et ligne_facture (IDStock)
+Clients		NWL	Clients (IDClients) et facture (IDClients)	Nouvelle liaison entre les fichiers Clients (IDClients) et facture (IDClients)

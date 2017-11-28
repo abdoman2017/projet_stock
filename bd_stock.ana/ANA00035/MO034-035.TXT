@@ -1,0 +1,4 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Facture_proforma		TAR	79	nouvelle taille enregistrement : 79
+Facture_proforma	IDmode_paiement	RUB-		la clé IDmode_paiement est supprimée
+mode_paiement		DEL	mode_paiement (IDmode_paiement) et Facture_proforma (IDmode_paiement)	Liaison supprimée entre les fichiers mode_paiement (IDmode_paiement) et Facture_proforma (IDmode_paiement)

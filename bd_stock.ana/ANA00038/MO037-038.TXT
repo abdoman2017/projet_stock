@@ -1,0 +1,2 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+facture		NFI		nouveau fichier

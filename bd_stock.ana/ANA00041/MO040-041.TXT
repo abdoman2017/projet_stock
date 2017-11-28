@@ -1,0 +1,3 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Stock		TAR	216	nouvelle taille enregistrement : 216
+Stock	tva	CNW	Entier sur 4 octets$Chaîne	la rubrique tva a pour nouveau type Entier sur 4 octets

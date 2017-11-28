@@ -1,0 +1,2 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Facture_proforma	date_fct_proforma	CLEN*		la rubrique date_fct_proforma est maintenant une clé

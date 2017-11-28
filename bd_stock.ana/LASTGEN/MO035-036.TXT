@@ -1,0 +1,3 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Facture_proforma		TAR	68	nouvelle taille enregistrement : 68
+Facture_proforma	timbre_proforma	RUB-		la rubrique timbre_proforma est supprimée

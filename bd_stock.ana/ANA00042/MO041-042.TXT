@@ -1,0 +1,2 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+facture	date_fct	CLEN*		la rubrique date_fct est maintenant une clé

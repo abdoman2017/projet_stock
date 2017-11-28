@@ -1,0 +1,3 @@
+//MO036-037.TXT ANA00036 TO ANA00037
+Ligne_fct_proforma		TAR	57	nouvelle taille enregistrement : 57
+Ligne_fct_proforma	montantTVA_ligne_proforma	RUB+		montantTVA_ligne_proforma est une nouvelle rubrique
