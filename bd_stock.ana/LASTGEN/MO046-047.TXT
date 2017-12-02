@@ -1,0 +1,5 @@
+//MO046-047.TXT ANA00046 TO ANA00047
+vente_comptoir		NFI		nouveau fichier
+ligne_vente_comptoir		NFI		nouveau fichier
+vente_comptoir		NWL	vente_comptoir (IDvente_comptoir) et ligne_vente_comptoir (IDvente_comptoir)	Nouvelle liaison entre les fichiers vente_comptoir (IDvente_comptoir) et ligne_vente_comptoir (IDvente_comptoir)
+Stock		NWL	Stock (IDStock) et ligne_vente_comptoir (IDStock)	Nouvelle liaison entre les fichiers Stock (IDStock) et ligne_vente_comptoir (IDStock)
