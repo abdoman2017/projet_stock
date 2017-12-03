@@ -1,6 +1,3 @@
-//MO047-048.TXT ANA00047 TO ANA00048
-vente_comptoir		TAR	45	nouvelle taille enregistrement : 45
-vente_comptoir	total_remise	RUB+		total_remise est une nouvelle rubrique
-ligne_vente_comptoir		TAR	67	nouvelle taille enregistrement : 67
-ligne_vente_comptoir	remise_lignevente	RUB+		remise_lignevente est une nouvelle rubrique
-ligne_vente_comptoir	montant_remise_ligne	RUB+		montant_remise_ligne est une nouvelle rubrique
+//MO048-049.TXT ANA00048 TO ANA00049
+vente_comptoir		TAR	55	nouvelle taille enregistrement : 55
+vente_comptoir	remise_ventecpt	RUB+		remise_ventecpt est une nouvelle rubrique
