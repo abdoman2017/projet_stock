@@ -1,0 +1,2 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+Bon_Livraison	date_bnLivraison	CLEN*		la rubrique date_bnLivraison est maintenant une clé
