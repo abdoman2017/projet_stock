@@ -1,0 +1,4 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+Bon_Achat		TAR	46	nouvelle taille enregistrement : 46
+Bon_Achat	TotalMontant_BA	RUB+		TotalMontant_BA est une nouvelle rubrique
+Bon_Achat	TotalTTC_BA	RUB+		TotalTTC_BA est une nouvelle rubrique

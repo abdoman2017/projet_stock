@@ -1,0 +1,2 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Ligne_BA		NFI		nouveau fichier
