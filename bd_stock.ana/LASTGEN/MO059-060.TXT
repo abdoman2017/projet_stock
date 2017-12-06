@@ -1,0 +1,3 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+Ligne_BA		TAR	37	nouvelle taille enregistrement : 37
+Ligne_BA	IDFournisseur	RUB-		la clé IDFournisseur est supprimée

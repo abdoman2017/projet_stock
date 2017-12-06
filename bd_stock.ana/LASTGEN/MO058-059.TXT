@@ -1,0 +1,5 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+Bon_Achat		TAR	54	nouvelle taille enregistrement : 54
+Bon_Achat	IDFournisseur	RUB+		IDFournisseur est une nouvelle clé
+Fournisseur		NWL	Fournisseur (IDFournisseur) et Bon_Achat (IDFournisseur)	Nouvelle liaison entre les fichiers Fournisseur (IDFournisseur) et Bon_Achat (IDFournisseur)
+Fournisseur		DEL	Fournisseur (IDFournisseur) et Ligne_BA (IDFournisseur)	Liaison supprimée entre les fichiers Fournisseur (IDFournisseur) et Ligne_BA (IDFournisseur)

@@ -1,0 +1,4 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+Bon_Achat		TAR	62	nouvelle taille enregistrement : 62
+Bon_Achat	IDmode_paiement	RUB+		IDmode_paiement est une nouvelle clé
+mode_paiement		NWL	mode_paiement (IDmode_paiement) et Bon_Achat (IDmode_paiement)	Nouvelle liaison entre les fichiers mode_paiement (IDmode_paiement) et Bon_Achat (IDmode_paiement)
