@@ -1,0 +1,2 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+Depenses		NFI		nouveau fichier
