@@ -1,0 +1,7 @@
+//MO066-067.TXT ANA00066 TO ANA00067
+Bon_cmd		NFI		nouveau fichier
+Ligne_BC		NFI		nouveau fichier
+Cmd_client		NFI		nouveau fichier
+Stock		NWL	Stock (IDStock) et Ligne_BC (IDStock)	Nouvelle liaison entre les fichiers Stock (IDStock) et Ligne_BC (IDStock)
+Cmd_client		NWL	Cmd_client (IDCmd_client) et Ligne_BC (IDCmd_client)	Nouvelle liaison entre les fichiers Cmd_client (IDCmd_client) et Ligne_BC (IDCmd_client)
+Bon_cmd		NWL	Bon_cmd (IDBon_cmd) et Ligne_BC (IDBon_cmd)	Nouvelle liaison entre les fichiers Bon_cmd (IDBon_cmd) et Ligne_BC (IDBon_cmd)
