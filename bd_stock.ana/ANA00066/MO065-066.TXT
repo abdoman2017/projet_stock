@@ -1,0 +1,2 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+Depenses	date_depense	CLEN*		la rubrique date_depense est maintenant une clé

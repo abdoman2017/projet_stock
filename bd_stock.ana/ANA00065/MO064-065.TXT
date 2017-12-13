@@ -1,0 +1,6 @@
+//MO064-065.TXT ANA00064 TO ANA00065
+Depenses		TAR	145	nouvelle taille enregistrement : 145
+Depenses	IDType_Depense	RUB+		IDType_Depense est une nouvelle clé
+Depenses	type_frais	RUB-		la rubrique type_frais est supprimée
+Type_Depense		NFI		nouveau fichier
+Type_Depense		NWL	Type_Depense (IDType_Depense) et Depenses (IDType_Depense)	Nouvelle liaison entre les fichiers Type_Depense (IDType_Depense) et Depenses (IDType_Depense)
