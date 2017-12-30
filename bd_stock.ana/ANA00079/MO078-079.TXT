@@ -1,0 +1,4 @@
+//MO078-079.TXT ANA00078 TO ANA00079
+stock		TAR	169	nouvelle taille enregistrement : 169
+stock	apparaitre	CNW	Entier sur 4 octets$Chaîne	la rubrique apparaitre a pour nouveau type Entier sur 4 octets
+Connexion à 'D:\programmes\hichem\Debug\electricite.mdb'		CNX+		

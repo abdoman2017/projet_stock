@@ -2,16 +2,11 @@
 ;Do not edit. Please use specific tools.
 ANALYSISGUID=C	;Analysis GUID
 LOCALIZATION_UTF8=D190DE6637514D3CA003B915E8262356	Compte	C:\Mes Projets\projet1\Exe\Compte.fic
-LOCALIZATION_UTF8=4E4C0B95DB504978AA594CC566F9A25B	Stock	C:\Mes Projets\projet1\Exe\Stock.fic
 LOCALIZATION_UTF8=698B0E54F93541D3A2457831FEA38E3F	Clients	C:\Mes Projets\projet1\Exe\Clients.fic
-LOCALIZATION_UTF8=4E4C0B95DB504978AA594CC566F9A25B	Stock	C:\Users\oussama\Desktop\projet1\Exe\Stock.fic
 LOCALIZATION_UTF8=698B0E54F93541D3A2457831FEA38E3F	Clients	C:\Users\oussama\Desktop\projet1\Exe\Clients.fic
 LOCALIZATION_UTF8=D190DE6637514D3CA003B915E8262356	Compte	C:\Users\oussama\Desktop\projet1\Exe\Compte.fic
-LOCALIZATION_UTF8=4E4C0B95DB504978AA594CC566F9A25B	Stock	C:\Users\oussama\Desktop\projet_stock\Exe\Stock.fic
 LOCALIZATION_UTF8=698B0E54F93541D3A2457831FEA38E3F	Clients	C:\Users\oussama\Desktop\projet_stock\Exe\Clients.fic
-LOCALIZATION_UTF8=4E4C0B95DB504978AA594CC566F9A25B	Stock	C:\Mes Projets\projet_stock-master\Exe\Stock.fic
 LOCALIZATION_UTF8=698B0E54F93541D3A2457831FEA38E3F	Clients	C:\Mes Projets\projet_stock-master\Exe\Clients.fic
-LOCALIZATION_UTF8=4E4C0B95DB504978AA594CC566F9A25B	Stock	C:\Users\ABDESSLAM\Desktop\projet_stock-master\Exe\Stock.fic
 LOCALIZATION_UTF8=698B0E54F93541D3A2457831FEA38E3F	Clients	C:\Users\ABDESSLAM\Desktop\projet_stock-master\Exe\Clients.fic
 LOCALIZATION_UTF8=F4821A57E232484693552F0B6E37D1C4	Fournisseur	C:\Users\ABDESSLAM\Desktop\projet_stock-master\Exe\Fournisseur.fic
 LOCALIZATION_UTF8=164996CEDE8547DB807597350B958823	Bon_Livraison	C:\Users\ABDESSLAM\Desktop\projet_stock-master\Exe\Bon_Livraison.fic
@@ -52,3 +47,4 @@ LOCALIZATION_UTF8=160C1F322B464A14A1B78643F6F4A0AD	ligne_CC	C:\Users\oussama\Des
 LOCALIZATION_UTF8=B76628224E654D5C842F0AFF56604F9D	Cmd_client	C:\Users\oussama\Desktop\projet_stock\Exe\Cmd_client.fic
 LOCALIZATION_UTF8=D190DE6637514D3CA003B915E8262356	Compte	C:\Users\oussama\Desktop\projet_stock\EXE\Compte.fic
 LOCALIZATION_UTF8=1FB3D5A8DAD341B383E3E7042550D687	Historique_Retour_Produit	C:\Users\ABDESSLAM\Desktop\projet_stock-master\Exe\Historique_Retour_Produit.fic
+LOCALIZATION_UTF8=4E4C0B95DB504978AA594CC566F9A25B	stock	C:\Users\ABDESSLAM\Desktop\projet_stock-master\Exe\stock1.fic

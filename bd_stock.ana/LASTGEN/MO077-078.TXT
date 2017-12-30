@@ -1,0 +1,2 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+Connexion à 'C:\Users\ABDESSLAM\Documents\stock11.xlsx'		CNX+		
