@@ -1,0 +1,3 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+stock		TAR	179	nouvelle taille enregistrement : 179
+stock	Prix_venteG	RUB+		Prix_venteG est une nouvelle rubrique

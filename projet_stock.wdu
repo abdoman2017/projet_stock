@@ -1,0 +1,279 @@
+bd_stock.eu.emf
+bd_stockFR.eu.emf
+bd_stock.wdd
+FEN_connexion.wdw
+ANNULER.PNG
+BTN_AUTHENTIFICATION.PNG
+FALSE.PNG
+GENSTEEL_BTN_STD.PNG
+GENSTEEL_EDT.PNG
+GENSTEEL_RESIZE.GIF
+GENSTEEL_SCROLL_H.GIF
+GENSTEEL_SCROLL_V.GIF
+LOGICIEL.ICO
+UNLOCK.PNG
+USER.PNG
+VALIDER.PNG
+FEN_Menu_Principal.wdw
+100 ACTIVOSX01002.PNG
+100 ACTIVOSX01003.PNG
+100 ACTIVOSX01004.PNG
+100 ACTIVOSX01005.PNG
+100 ACTIVOSX01006.PNG
+100 ACTIVOSX01009.PNG
+100 ACTIVOSX0100_Z.PNG
+ACHAT.PNG
+ALERTE.PNG
+ANNULER1.PNG
+ANNULERBN.PNG
+D.PNG
+DEPENSE.PNG
+EDIT1.PNG
+ENREGISTRER1.PNG
+FACTURE.PNG
+FERMER.PNG
+FOURNISSEUR.PNG
+GENSTEEL_BTN_APP_MAIN.PNG
+GENSTEEL_CBOX_TABLE.PNG
+GENSTEEL_COMBO.PNG
+GENSTEEL_PICT_TAB_ADD_16_5.PNG
+GENSTEEL_PICT_TAB_CLOSE_16_5.PNG
+GENSTEEL_RADIO.PNG
+GENSTEEL_RIBBON_BG.PNG
+GENSTEEL_RIBBON_SEPAR.PNG
+GENSTEEL_RIBBON_TAB.PNG
+GENSTEEL_ROLLOVER.PNG
+GENSTEEL_SELECT.PNG
+GENSTEEL_SPLITER_GRIP_V.GIF
+GENSTEEL_TABLE_COLPICT.PNG
+GENSTEEL_TABLE_COLTITLE.PNG
+GENSTEEL_TABSLIDE_BOTTOM.PNG
+GENSTEEL_TABSLIDE_TOP.PNG
+GENSTEEL_TAB_BOTTOM.PNG
+GENSTEEL_TAB_LEFT.PNG
+GENSTEEL_TAB_MDI_BTN-NEW.PNG
+GENSTEEL_TAB_RIGHT.PNG
+GENSTEEL_TAB_TOP.PNG
+GENSTEEL_TAB_TOP_BG.PNG
+IF_BIN_FULL_35623.PNG
+IF_INVOICE_87438.PNG
+IF_LOGIN_73221.PNG
+IF_USERS_61816.PNG
+IMPRIMANTE.PNG
+IMPRIMERBA.PNG
+IMPRIMERLISTEBA.PNG
+IMPRIMER_BC.PNG
+IMPRIMER_PROD.PNG
+JOURNAL.PNG
+LIVRAISON.PNG
+MAISON.PNG
+MONNAIE1.PNG
+MONNAIE3.PNG
+NOUVEAU.PNG
+PANIER1.PNG
+RECHERCHE.PNG
+RETOUR.PNG
+RETOUR1.PNG
+RETOURP.PNG
+RETOURVENTEC.PNG
+STATUS-MAIL-TASK-ICON.PNG
+STOCK.PNG
+STOCK1.PNG
+SUPPRIMER.PNG
+SUPPRIMER1.PNG
+SUPPRIMER2.PNG
+SUPPRIMERLIGNEBN.PNG
+VALIDERBN.PNG
+ZOOM1.PNG
+REQ_tableau_stock.WDR
+ETAT_imprime_stock.wde
+REQ_supprimer_produit.WDR
+REQ_corbeille.WDR
+REQ_restaurationPRD.WDR
+REQ_Prix_Achat.WDR
+REQ_modifier_Stock.WDR
+REQ_Modifier_Client.WDR
+ETAT_Imprimer_Client.wde
+ETAT_Imprimer_Fournisseur.wde
+REQ_Modifier_Fournisseur.WDR
+FEN_Table_Clients_externe.wdw
+GENSTEEL_PICT_CLOSE_16_5.PNG
+FEN_produits.wdw
+REQ_table_produits_externe.WDR
+REQ_factureBL.WDR
+REQ_factureFP.WDR
+ETAT_Bon_Livraison.wde
+REQ_impBL.WDR
+REQ_ImprimerFP.WDR
+ETAT_ImprimerFactPro.wde
+ETAT_ImprimerFacture.wde
+REQ_ImprimerFacture.WDR
+REQ_details_client.WDR
+REQ_details_clients_fct.WDR
+REQ_testfct.WDR
+REQ_suppventecpt.WDR
+FEN_table_fournisseur.wdw
+ETAT_Liste_Vente.wde
+REQ_ImprimerBonAchat.WDR
+ETAT_ImprimerBonAchat.wde
+REQ_suppligneventecpt.WDR
+REQ_BC.WDR
+REQ_qte_des_produits_venteBL.WDR
+ETAT_ListeBonAchat.wde
+FEN_Produit_Commandé.wdw
+ETAT_Imrimer_Depenses.wde
+REQ_bc1.WDR
+REQ_imprimer_BC.WDR
+ETAT_imprimer_BC.wde
+REQ_alert_stock.WDR
+REQ_qte_acheté.WDR
+REQ_somme_produitBL.WDR
+REQ_somme_produitFacture.WDR
+REQ_somme_produitVenteCPT.WDR
+REQ_nbrBL.WDR
+REQ_nbr_factures.WDR
+REQ_nbr_facturePRO.WDR
+REQ_total_produit_achetes.WDR
+REQ_nbr_ba.WDR
+REQ_nbr_bc.WDR
+REQ_montant_total_ventesCPT.WDR
+REQ_montant_total_factures.WDR
+REQ_montant_total_BL.WDR
+REQ_montant_achats.WDR
+REQ_total_depenses.WDR
+REQ_qte_vendue_BL.WDR
+REQ_qte_vendue_facture.WDR
+REQ_qte_vendue_venteCPT.WDR
+REQ_remise_BL.WDR
+REQ_remise_ventecpt.WDR
+REQ_Nbr_alerte_stock.WDR
+REQ_RetourProduitBL.WDR
+REQ_RetourProduitFacture.WDR
+REQ_RetourProduitVC.WDR
+REQ_Modifier_MP.WDR
+REQ_bc2.WDR
+REQ_CA_BL.WDR
+REQ_qte_des_produits_venteCPT.WDR
+REQ_qte_des_produits_venteFCT.WDR
+REQ_qte_des_produits_AchatBA.WDR
+REQ_CA_VC.WDR
+REQ_CA_Facture.WDR
+REQ_CA_Tableau.WDR
+REQ_CATTC_VC.WDR
+REQ_CATTC_BL.WDR
+REQ_CATTC_Facture.WDR
+REQ_BL_journal.WDR
+REQ_VC_journal.WDR
+REQ_journal.WDR
+REQ_FCT_journal.WDR
+REQ_BA_journal.WDR
+REQ_TableauBord_BL.WDR
+REQ_TableauBord_Facture.WDR
+REQ_TableauBord_VC.WDR
+REQ_TableauBord_BA.WDR
+REQ_courbeFCT.WDR
+REQ_courbeBL.WDR
+REQ_courbeVC.WDR
+REQ_CourbeFinal.WDR
+REQ_courbeBA.WDR
+REQ_Depense_journal.WDR
+REQ_Combo_Journal.WDR
+REQ_numDoc_journal.WDR
+REQ_num_retour.WDR
+REQ_comboFourniseurExterneBC.WDR
+FEN_zoom_produit.wdw
+FERMER_ZOOM.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\Gensteel.wdy
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BANNER_BOTTOM.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BANNER_TOP.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BREAK.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BREAK_PICT.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_APP_BACK.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_BRW.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_MEDIA_BCKGRD.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_MEDIA_CENTER.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_MEDIA_OK.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_MEDIA_RIGHT.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_MENU.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_MENU2.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_MENU3.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_REMOVE.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_SYST_CLOSE.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_SYST_INCREASE.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_SYST_MINIMIZE.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_BTN_TOOL.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_CBOX.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_EDT_READONLY.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_FRAME.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_LIB_MEDIA.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_ADD_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BACK_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BROWSE_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWFIRST_H_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWFIRST_V_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWFORWARD_H_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWFORWARD_V_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWLAST_H_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWLAST_V_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWNEXT_H_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_BRWNEXT_V_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_CANCEL_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_COPY_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_CORRECT_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_CUT_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_DELETE_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_DETAIL_16_2.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_DETAIL_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_HELP_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_HOME_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_IMPORT_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_LINK_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_LIST_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_LOGOFF_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_MODIFY_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_NAVIGFORWARD_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_NAVIGNEXT_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_NEW_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_OPEN_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_PARENTFOLDER_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_PASTE_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_PLANEFORWARD_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_PLANENEXT_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_PRINT_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_REDO_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_REFRESH_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_REPAIR_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_SAVE_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_SEARCH_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_SYST_CLOSE_5.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_SYST_MAXIMISE_5.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_SYST_MINIMIZE_5.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_SYST_RESTORE_5.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_SYST_UMC_5.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_TRAD_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_UNDO_24_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PICT_VISIONPLUS_16_5.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_ACTIV.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_BG.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_C_BCKGRD.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_C_BORDER.SVG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_C_CENTER.SVG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_C_CENTER2.SVG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_V_ACTIV.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_PROGBAR_V_BG.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SIDE.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SIDE_LIGHT.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SLD_BCKGRD.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SLD_CURSOR.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SLD_V_BCKGRD.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SLD_V_CURSOR.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SPIN_BTNV_LESS.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SPIN_BTNV_MORE.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SPIN_BTN_LESS.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SPIN_BTN_MORE.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SPLITER_GRIP_H.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_SPLITTER_BG.GIF
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_TAB_BOTTOM_BG.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_TAB_LEFT_BG.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_TAB_MDI_TOP.PNG
+C:\WinDev 20\Personnel\Gabarits\190 Gensteel\GENSTEEL_TAB_RIGHT_BG.PNG
