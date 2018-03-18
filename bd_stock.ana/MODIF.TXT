@@ -1,2 +1,3 @@
-//MO080-081.TXT ANA00080 TO ANA00081
-Connexion à 'C:\Users\ABDESSLAM\Desktop\electricite.mdb'		CNX+		
+//MO081-082.TXT ANA00081 TO ANA00082
+stock		TAR	179	nouvelle taille enregistrement : 179
+stock	Prix_venteG	RUB+		Prix_venteG est une nouvelle rubrique
